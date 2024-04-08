@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "words": [
+    "Dannerd",
+    "Dannerd's",
+    "Dannerd",
+    "kbarker",
+    "scriptingmaster",
+    "Avelx",
+    "BOMDAS",
+    "ldq's",
+    "kunaguero",
+    "typeof",
+    "Nepo",
+    "pseudocode",
+    "Edabit",
+    "edabit",
+    "leetcode",
+    "Codewars",
+    "codewars",
+    "coderbyte",
+    "Exercism",
+    "exercism",
+    "gitbook",
+    "Codewar"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg",
+    "accessibility_report"
+  ]
+}
